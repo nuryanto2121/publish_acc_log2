@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c4a57"],{"3c5f":function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"height--full"},[n("ABSMasterPageVuex2",{attrs:{prop:e.property}})],1)},r=[],o={data:function(){return{property:{tabPath1:"views/SM/SM_CommisionCalculation/PageLevel_1"}}},beforeCreate:function(){},beforeMount:function(){}},u=o,c=n("2877"),i=Object(c["a"])(u,a,r,!1,null,null,null);t["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0c4a57.3dc84be1.js.map
