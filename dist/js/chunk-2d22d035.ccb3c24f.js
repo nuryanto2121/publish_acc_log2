@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22d035"],{f64c:function(e,t,n){"use strict";n.r(t);var r=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"height--full"},[n("ABSMasterPageVuex2",{attrs:{prop:e.property}})],1)},a=[],o={data:function(){return{property:{tabPath1:"views/SM/CB_Deposit/PageLevel_1"}}},beforeCreate:function(){},beforeMount:function(){}},u=o,s=n("2877"),c=Object(s["a"])(u,r,a,!1,null,null,null);t["default"]=c.exports}}]);
+//# sourceMappingURL=chunk-2d22d035.ccb3c24f.js.map
