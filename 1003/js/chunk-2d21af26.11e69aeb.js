@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21af26"],{be4a:function(e,t,a){"use strict";a.r(t);var n=function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("div",{staticClass:"height--full"},[a("ABSMasterPageVuex2",{attrs:{prop:e.property}})],1)},r=[],u={data:function(){return{property:{tabPath1:"views/SM/SM_GenerateCardMaster/PageLevel_1"}}},beforeCreate:function(){},beforeMount:function(){}},o=u,s=a("2877"),c=Object(s["a"])(o,n,r,!1,null,null,null);t["default"]=c.exports}}]);
-//# sourceMappingURL=chunk-2d21af26.11e69aeb.js.map
