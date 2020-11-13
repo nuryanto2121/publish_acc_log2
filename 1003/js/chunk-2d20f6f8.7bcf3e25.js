@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20f6f8"],{b42b:function(e,t,n){"use strict";n.r(t);var r=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"height--full"},[n("ABSMasterPageVuex2",{attrs:{prop:e.property}})],1)},a=[],u={data:function(){return{property:{tabPath1:"views/SM/SM_TokenPurchase/PageLevel_1"}}},beforeCreate:function(){},beforeMount:function(){}},o=u,s=n("2877"),c=Object(s["a"])(o,r,a,!1,null,null,null);t["default"]=c.exports}}]);
+//# sourceMappingURL=chunk-2d20f6f8.7bcf3e25.js.map
