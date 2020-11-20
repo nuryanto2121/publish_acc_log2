@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b66de"],{"1cb8":function(e,t,r){"use strict";r.r(t);var n=function(){var e=this,t=e.$createElement,r=e._self._c||t;return r("div",{staticClass:"height--full"},[r("ABSMasterPageVuex2",{attrs:{prop:e.property}})],1)},a=[],o={data:function(){return{property:{tabPath1:"views/SS/SS_UserPrivilegeReport/PageLevel_1"}}},beforeCreate:function(){},beforeMount:function(){}},u=o,i=r("2877"),s=Object(i["a"])(u,n,a,!1,null,null,null);t["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0b66de.dc279b74.js.map

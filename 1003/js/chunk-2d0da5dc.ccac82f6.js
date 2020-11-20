@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0da5dc"],{"6afa":function(e,t,a){"use strict";a.r(t);var n=function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("div",{staticClass:"height--full"},[a("ABSMasterPageVuex2",{attrs:{prop:e.property}})],1)},r=[],u={data:function(){return{property:{tabPath1:"views/SM/SM_TableMaster/PageLevel_1"}}},beforeCreate:function(){},beforeMount:function(){}},o=u,s=a("2877"),c=Object(s["a"])(o,n,r,!1,null,null,null);t["default"]=c.exports}}]);
+//# sourceMappingURL=chunk-2d0da5dc.ccac82f6.js.map

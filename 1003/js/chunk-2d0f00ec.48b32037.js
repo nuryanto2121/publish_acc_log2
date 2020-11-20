@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0f00ec"],{"9b6c":function(e,t,n){"use strict";n.r(t);var r=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"height--full"},[n("ABSMasterPageVuex2",{attrs:{prop:e.property}})],1)},a=[],u={data:function(){return{property:{tabPath1:"views/SM/SM_ReminderBilling/PageLevel_1"}}},beforeCreate:function(){},beforeMount:function(){}},i=u,o=n("2877"),c=Object(o["a"])(i,r,a,!1,null,null,null);t["default"]=c.exports}}]);
+//# sourceMappingURL=chunk-2d0f00ec.48b32037.js.map
